@@ -1,2 +1,3 @@
 # glogger
-Simple logger to Go Lang
+Simple logger for Go Lang
+
